@@ -1,3 +1,3 @@
 # Photobia
-### Toggle View
-![goindex-toggle-view](https://i.imgur.com/s6jzCUj.png)
+### HomeScreen
+![photobia-homescreen](https://i.imgur.com/s6jzCUj.png)
