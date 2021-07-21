@@ -6,15 +6,13 @@
 
 ### HomeScreen
 ![photobia-homescreen](https://i.imgur.com/s6jzCUj.png)
-##
+### SignIn
 ![photobia-homescreen](https://imgur.com/T4O59mg.png)
-##
+### SignUp
 ![photobia-homescreen](https://imgur.com/5RIK6R9.png)
-##
-![photobia-homescreen](https://imgur.com/5RIK6R9.png)
-##
+###
 ![photobia-homescreen](https://imgur.com/uNcR4cr.png)
 ##
 ![photobia-homescreen](https://imgur.com/xg1cxAr.png)
-##
+### Create Post
 ![photobia-homescreen](https://imgur.com/r8Pku6D.png)
