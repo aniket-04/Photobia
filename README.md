@@ -5,14 +5,15 @@
 - `MongoDB` and `Express Js` used for Backend (Server side) . 
 - `React js` used for Frontend (Client side).
 - `Node Js` for server.
-### These are main pages:
-landing page: This page is the home page.
-Login page: This is the Login page.
-SignUp page: This is the register/signup page.
-User profile: This page shows the user profile where he/she can edit his/her profile.
-
+### These are 6 main pages:
+- `Landing page`: This page is the home page.
+- `Login page`: This is the Login page.
+- `SignUp page`: This is the register/signup page.
+- `User profile`: This page shows the user profile where he/she can edit his/her profile.
+-  `Create post`: User can Create Post by uploading pictures and can give title and body.
+- `Following Post`: User can see to whom he/she follow.
+ 
 ### Setup 
-
 ### Demo ScreenShots
 ***`SignIn`***
 ![photobia-homescreen](https://imgur.com/T4O59mg.png)
