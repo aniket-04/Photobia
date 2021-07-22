@@ -14,6 +14,14 @@
 - `Following Post`: User can see to whom he/she follow.
  
 ### Setup 
+- Get inside the directory and run `npm install` to install all the required dependcies.
+  ```
+  $ npm install
+  ```
+- Once all the packages are installed run `npm start` to start the development server.
+  ```
+  $ npm start
+  ```
 ### Demo ScreenShots
 ***`SignIn`***
 ![photobia-homescreen](https://imgur.com/T4O59mg.png)
