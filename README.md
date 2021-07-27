@@ -23,9 +23,9 @@
   $ npm start
   ```
 ### Demo ScreenShots
-### SignIn
+### `SignIn`
 ![photobia-homescreen](https://imgur.com/T4O59mg.png)
-###```SignUp```
+### SignUp
 ![photobia-homescreen](https://imgur.com/5RIK6R9.png)
 ### Create Post
 ![photobia-homescreen](https://imgur.com/r8Pku6D.png)
