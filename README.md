@@ -1,5 +1,9 @@
 # Photobia
 ### Problem 
+- There are various types of bot accounts created by users used for different purposes such as boosting follower count of selected users, 
+  advertising their product or message to other people by spamming random people’s messages or commenting in random post with the help of web scripts and dummy accounts.
+- There are various accounts which create posts about political and business agendas to publish their views to general masses. This practice in general creates hate on the platform and not a healthy environment for other users.
+
 ### What we Purpose
 ![image](https://user-images.githubusercontent.com/41636890/132135447-385a155b-f4a8-474f-9c6f-ab20bb5395fc.png)
 
