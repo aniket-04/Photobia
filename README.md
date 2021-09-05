@@ -5,7 +5,10 @@
 - There are various accounts which create posts about political and business agendas to publish their views to general masses. This practice in general creates hate on the platform and not a healthy environment for other users.
 
 ### What we Purpose
-![image](https://user-images.githubusercontent.com/41636890/132135447-385a155b-f4a8-474f-9c6f-ab20bb5395fc.png)
+- We have developed a web-based application for social networking that emphasizes on sharing your beautiful life moment photos with your friends.
+- On Photobia, User can make their posts in the form of photos and gifs.
+- Users can also follow other people and check out their posts. 
+- They can express their thought by liking and commenting on other people’s posts.
 
 ### Technology Used
 - `MongoDB` and `Express Js` used for Backend (Server side) . 
