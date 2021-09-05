@@ -1,6 +1,13 @@
 # Photobia
 ### Problem 
 ### What we Purpose
+- We have developed a web-based application for social networking that emphasizes on photo and video sharing.
+- The application is developed using MERN technology with JavaScript  programming.
+- On Photobia, User can make their posts in the form of photos and short videos.
+- Users can also follow other people and check out their posts. 
+- They can express their thought by liking and commentting on other people’s posts.
+![image](https://user-images.githubusercontent.com/41636890/132135447-385a155b-f4a8-474f-9c6f-ab20bb5395fc.png)
+
 ### Technology Used
 - `MongoDB` and `Express Js` used for Backend (Server side) . 
 - `React js` used for Frontend (Client side).
