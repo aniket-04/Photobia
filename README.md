@@ -8,7 +8,7 @@
 - We have developed a web-based application for social networking that emphasizes on sharing your beautiful life moment photos with your friends.
 - On Photobia, User can make their posts in the form of photos and gifs.
 - Users can also follow other people and check out their posts. 
-- They can express their thought by liking and commenting on other people’s posts.
+- They can express their thoughts by liking and commenting on other people’s posts.
 
 ### Technology Used
 - `MongoDB` and `Express Js` used for Backend (Server side) . 
